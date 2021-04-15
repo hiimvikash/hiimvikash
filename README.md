@@ -16,7 +16,7 @@
 <h2>Currently working on:</h2>
 <h4>Web Development</h4>
 
-I document my experience throughout this process, and you can find them on my [LinkedIn featured](https://www.linkedin.com/in/heyimvikash/).
+I have document my experience throughout this process, and you can find them on my [LinkedIn featured](https://www.linkedin.com/in/heyimvikash/).
 
 Check out the GitHub repository:
 
