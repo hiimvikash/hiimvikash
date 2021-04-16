@@ -1,11 +1,12 @@
 ![Vikash Banner Image](./banner.png)
 
-<h1 align="center">Hey!👋, I'm Vikash</h2>
+<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Vikash Gupta!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"></h2>
 
 <img src="https://komarev.com/ghpvc/?username=heyimvikash&label=Visitors&color=0e75b6&style=flat" alt="heyimvikash" /> [![GitHub followers](https://img.shields.io/github/followers/heyimvikash.svg?style=social&label=Follow)](https://github.com/heyimvikash?tab=followers)
 
 - <i>Currently:</i> A CS student at **Jain University**, Bangalore.
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2>💻 I'm Currently Learning</h2>
 
 **A self learner**
@@ -29,7 +30,7 @@ Check out the GitHub repository:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimvikash&layout=compact)](#)
 
-<h2> About Me⚡:</h2>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">A little more about me...⚡:</h2>
 
 Hello there,
 I'm a 19-year-old boy and I love writing code.
