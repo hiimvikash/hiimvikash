@@ -41,6 +41,9 @@ I think implementing my learnings into real-world projects is the best way to mo
 Whenever I self-learn about any technology then sharing it with you all guys become my necessity.
 If you have learned any new technology and want to share your joy, your struggling part, and your behind story while learning it, with someone, then I'm the right guy, ready to learn from your experiences, do reach out.
 
+
+<img height="80" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 <h2>💬 Say me "Hi" on</h2>
 
 <a href="mailto:heyimvikash@gmail.com">![heyimvikash@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/heyimvikash/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> [![Twitter Badge](https://img.shields.io/badge/-@heyiamvikash-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/heyiamvikash)](https://twitter.com/heyiamvikash)
