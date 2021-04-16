@@ -27,13 +27,15 @@ I have document my experience throughout this process, and you can find them on 
 
 
 <h2>👀 GitHub Stats</h2>
-<img align='right' src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="180"/>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimvikash&layout=compact)](#)
 
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">A little more about me...⚡:</h2>
+
+<img align='right' src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="120"/>
 
 Hello there,
 I'm a 19-year-old boy and I love writing code.
