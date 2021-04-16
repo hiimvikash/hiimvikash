@@ -5,8 +5,8 @@
 <img src="https://komarev.com/ghpvc/?username=heyimvikash&label=Visitors&color=0e75b6&style=flat" alt="heyimvikash" /> [![GitHub followers](https://img.shields.io/github/followers/heyimvikash.svg?style=social&label=Follow)](https://github.com/heyimvikash?tab=followers)
 
 - <i>Currently:</i> A CS student at **Jain University**, Bangalore.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2>💻 I'm Currently Learning</h2>
 
 **A self learner**
@@ -27,6 +27,7 @@ I have document my experience throughout this process, and you can find them on 
 
 
 <h2>👀 GitHub Stats</h2>
+<img align='right' src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="120"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](#)
 
