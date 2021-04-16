@@ -1,12 +1,11 @@
 ![Vikash Banner Image](./banner.png)
 
-
 <h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,नमस्ते (Namaste)🙏🏻, I'm Vikash Gupta!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" align="center"></h2>
 
-![Visitor](https://komarev.com/ghpvc/?username=heyimvikash&color=ffce3b) [![GitHub followers](https://img.shields.io/github/followers/heyimvikash.svg?style=social&label=Follow)](https://github.com/heyimvikash?tab=followers)
+![](https://komarev.com/ghpvc/?username=heyimvikash&label=Visitors&style=flat&color=ffce3b) [![GitHub followers](https://img.shields.io/github/followers/heyimvikash.svg?style=social&label=Follow)](https://github.com/heyimvikash?tab=followers)
 
 - <i>Currently:</i> A CS student at **Jain University**, Bangalore.
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
 <h2>💻 I'm Currently Learning</h2>
 
@@ -23,13 +22,10 @@ I have document my experience throughout this process, and you can find them on 
 
 ## 👀 Check out my GitHub repository:
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=DataStructures-And-Algorithms)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=Grocery-Bud-ViDirectory)](https://github.com/heyimvikash/Grocery-Bud-ViDirectory)
 
-
 <h2>📒 GitHub Stats</h2>
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](https://github.com/heyimvikash)
 
@@ -47,7 +43,6 @@ I think implementing my learnings into real-world projects is the best way to mo
 
 Whenever I self-learn about any technology then sharing it with you all guys become my necessity.
 If you have learned any new technology and want to share your joy, your struggling part, and your behind story while learning it, with someone, then I'm the right guy, ready to learn from your experiences, do reach out.
-
 
 <img height="80" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
