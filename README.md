@@ -20,14 +20,14 @@
 
 I have document my experience throughout this process, and you can find them on my [LinkedIn featured](https://www.linkedin.com/in/heyimvikash/).
 
-## 🕶 Check out my GitHub repository:
+## 👀 Check out my GitHub repository:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=DataStructures-And-Algorithms)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=Grocery-Bud-ViDirectory)](https://github.com/heyimvikash/Grocery-Bud-ViDirectory)
 
 
-<h2>👀 GitHub Stats</h2>
+<h2>📒 GitHub Stats</h2>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](#)
