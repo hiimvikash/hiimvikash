@@ -14,12 +14,12 @@
 - Web Development
 - Data Structure and Algorithms
 
-<h2>Currently working on:</h2>
+<h2>👨‍💻Currently working on:</h2>
 <h4>Web Development</h4>
 
 I have document my experience throughout this process, and you can find them on my [LinkedIn featured](https://www.linkedin.com/in/heyimvikash/).
 
-## Check out the GitHub repository:
+## 🕶 Check out the GitHub repository:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=DataStructures-And-Algorithms)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
