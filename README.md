@@ -1,11 +1,12 @@
 ![Vikash Banner Image](./banner.png)
 
+
 <h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,नमस्ते (Namaste)🙏🏻, I'm Vikash Gupta!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60"></h2>
 
 <img src="https://komarev.com/ghpvc/?username=heyimvikash&label=Visitors&color=0e75b6&style=flat" alt="heyimvikash" /> [![GitHub followers](https://img.shields.io/github/followers/heyimvikash.svg?style=social&label=Follow)](https://github.com/heyimvikash?tab=followers)
 
 - <i>Currently:</i> A CS student at **Jain University**, Bangalore.
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
 <h2>💻 I'm Currently Learning</h2>
 
