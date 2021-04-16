@@ -26,7 +26,7 @@ Check out the GitHub repository:
 
 <h2>👀 GitHub Stats</h2>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=heyimvikash)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimvikash&layout=compact)](#)
 
