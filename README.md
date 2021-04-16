@@ -16,7 +16,8 @@
 
 <h2>👨‍💻Currently working on:</h2>
 
-### **Web Development -** 
+<h3>Web Development -</h3>
+
 I have document my experience throughout this process, and you can find them on my [LinkedIn featured](https://www.linkedin.com/in/heyimvikash/).
 
 ## 🕶 Check out the GitHub repository:
