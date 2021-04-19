@@ -52,7 +52,7 @@ If you have learned any new technology and want to share your joy, your struggli
 
 <a href="mailto:heyimvikash@gmail.com">![heyimvikash@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/heyimvikash/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> [![Twitter Badge](https://img.shields.io/badge/-@heyiamvikash-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/heyiamvikash)](https://twitter.com/heyiamvikash)
 
-<div><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816"  width="400" height="200" frameborder="1" allowfullscreen="" title="Embedded post"></iframe></div>
+
 
 
 
