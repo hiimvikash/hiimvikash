@@ -26,7 +26,7 @@ I have document my experience throughout this process, and you can find them on 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=Grocery-Bud-ViDirectory)](https://github.com/heyimvikash/Grocery-Bud-ViDirectory)
 
 ## 👀 Check out my Practice projects:
-[![Project 1](./p1.png)](https://vifitness.netlify.app/)
+[![Project 1](./P1.png)](https://vifitness.netlify.app/)
 
 <h2>📒 GitHub Stats</h2>
 
