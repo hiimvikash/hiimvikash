@@ -25,6 +25,11 @@ I have document my experience throughout this process, and you can find them on 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=DataStructures-And-Algorithms)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=Grocery-Bud-ViDirectory)](https://github.com/heyimvikash/Grocery-Bud-ViDirectory)
 
+## 👀 Check out my Practice projects:
+<p>
+<a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816"><img src="./p1.png" width="50%"/></a> 
+<a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856"><img src="./p2.png" width="50%"/></a>
+</p>
 <h2>📒 GitHub Stats</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](https://github.com/heyimvikash)
