@@ -19,11 +19,16 @@
 <h3>Web Development -</h3>
 
 I have document my experience throughout this process, and you can find them on my [LinkedIn featured](https://www.linkedin.com/in/heyimvikash/).
+
 ## 👁 Check out my Practice projects:
 
-  [<img src="./p1.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816)[<img src="./p2.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856)
-  [<img src="./p3.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6781480245464727553)[<img src="./p4.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6787762553226432512)
-  [<img src="./p5.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6783079910190661633)[<img src="./p6.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6790126179681611776)
+  [<img src="./p1.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816)[<img src="./p2.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856)
+  [<img src="./p3.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6781480245464727553)[<img src="./p4.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6787762553226432512)
+  [<img src="./p5.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6783079910190661633)[<img src="./p6.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6790126179681611776)
+
+## Experience a Live Website here 👇
+
+[<img src="./l1.png" loading="lazy" title="click"/>](https://heyimvikashdirectory.netlify.app/)
 
 ## 👀 Check out my GitHub repository:
 
