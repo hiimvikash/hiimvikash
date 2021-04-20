@@ -25,12 +25,14 @@ I have document my experience throughout this process, and you can find them on 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=DataStructures-And-Algorithms)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=Grocery-Bud-ViDirectory)](https://github.com/heyimvikash/Grocery-Bud-ViDirectory)
 
-## 👀 Check out my Practice projects:
+## 👁 Check out my Practice projects:
 
 <!-- <span><a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816"><img src="./p1.png" width="50%"/></a></span> -->
 <!-- <span><a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856"><img src="./p2.png" width="50%"/></a></span> -->
-  [<img src="./p1.png" width="50%"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816)[<img src="./p2.png" width="50%"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856)
-  [<img src="./p3.png" width="50%"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6781480245464727553)[<img src="./p4.png" width="50%"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6787762553226432512)
+  [<img src="./p1.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816)[<img src="./p2.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856)
+  [<img src="./p3.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6781480245464727553)[<img src="./p4.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6787762553226432512)
+  [<img src="./p5.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6783079910190661633)[<img src="./p6.png" width="50%" loading="lazy"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6790126179681611776)
+
 
 <h2>📒 GitHub Stats</h2>
 
