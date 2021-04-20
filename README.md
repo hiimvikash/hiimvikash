@@ -26,10 +26,12 @@ I have document my experience throughout this process, and you can find them on 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=Grocery-Bud-ViDirectory)](https://github.com/heyimvikash/Grocery-Bud-ViDirectory)
 
 ## 👀 Check out my Practice projects:
-<p>
-<a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816"><img src="./p1.png" width="50%"/></a> 
-<a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856"><img src="./p2.png" width="50%"/></a>
-</p>
+
+<!-- <span><a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816"><img src="./p1.png" width="50%"/></a></span> -->
+<!-- <span><a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856"><img src="./p2.png" width="50%"/></a></span> -->
+  [<img src="./p1.png" width="50%"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816)[<img src="./p2.png" width="50%"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856)
+  [<img src="./p3.png" width="50%"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6781480245464727553)[<img src="./p4.png" width="50%"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6787762553226432512)
+
 <h2>📒 GitHub Stats</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](https://github.com/heyimvikash)
