@@ -63,6 +63,7 @@ If you have learned any new technology and want to share your joy, your struggli
 <h2>Say me "Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">" on 💬</h2>
 
 <a href="mailto:heyimvikash@gmail.com">![heyimvikash@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/heyimvikash/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> [![Twitter Badge](https://img.shields.io/badge/-@heyiamvikash-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/heyiamvikash)](https://twitter.com/heyiamvikash)
+[![](https://img.shields.io/badge/heyimvikash-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heyimvikash)
 
 
 
