@@ -1,6 +1,6 @@
 ![Vikash Banner Image](./banner.png)
 
-<h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, नमस्ते (Namaste)🙏🏻, I'm Vikash Gupta!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" align="center"> <br><p align="center">🌱---🌳</p></h1>
+<h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, नमस्ते (Namaste)🙏🏻, I'm Vikash Gupta!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" align="center"> <br><p align="center">🌱---🌳</p></h1>
 
 ![](https://komarev.com/ghpvc/?username=heyimvikash&label=Visitors&style=flat&color=ffce3b) [![GitHub followers](https://img.shields.io/github/followers/heyimvikash.svg?style=social&label=Follow)](https://github.com/heyimvikash?tab=followers)
 
