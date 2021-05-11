@@ -14,13 +14,13 @@
 - Web Development
 - Data Structure and Algorithms
 
-<h2><img src="https://media.giphy.com/media/3Fn48BycQFHImJjsN8/giphy.gif" width="50">Currently working on:</h2>
+<h2><img src="https://media.giphy.com/media/3Fn48BycQFHImJjsN8/giphy.gif" width="50"><b>Currently working on :-</b></h2>
 
 <h3>Web Development -</h3>
 
 I have document my experience throughout this process, and you can find them on my [LinkedIn featured](https://www.linkedin.com/in/heyimvikash/).
 
-## <img src="https://media.giphy.com/media/26vwfMVM6nlEkwftUj/giphy.gif" width="60"> Check out my Practice projects:
+## <img src="https://media.giphy.com/media/26vwfMVM6nlEkwftUj/giphy.gif" width="60"> **Check out my Practice projects:**
 
 [<img src="./p1.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816)[<img src="./p2.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856)
 [<img src="./p3.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6781480245464727553)[<img src="./p4.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6787762553226432512)
