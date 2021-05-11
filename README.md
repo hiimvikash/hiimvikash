@@ -41,7 +41,7 @@ I have document my experience throughout this process, and you can find them on 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimvikash&layout=compact)](#)
 
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">A little more about me...⚡:</h2>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"><b>A little more about me...⚡: </b></h2>
 <img align='right' src="https://media.giphy.com/media/uddQeaRTsKUc57pQSh/giphy.gif" width="160" height="180"/>
 
 Hello there,
