@@ -30,7 +30,7 @@ I have document my experience throughout this process, and you can find them on 
 
 [<img src="./l1.png" loading="lazy" title="click"/>](https://heyimvikashdirectory.netlify.app/)
 
-## <img src="https://media.giphy.com/media/nqc71UeLFdr0we228t/giphy.gif" width="60"> Check out my GitHub repository:
+## <img src="https://media.giphy.com/media/nqc71UeLFdr0we228t/giphy.gif" width="60"> **Check out my GitHub repository :-**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=DataStructures-And-Algorithms)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=Grocery-Bud-ViDirectory)](https://github.com/heyimvikash/Grocery-Bud-ViDirectory)
