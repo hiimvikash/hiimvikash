@@ -7,14 +7,14 @@
 - <i>Currently :</i> A CS student at **Jain University**, Bangalore.
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
-<h2><img src="https://media.giphy.com/media/JqCyR82tHIYQGRjLOY/giphy.gif" width="60">I'm Currently Learning</h2>
+<h2><img src="https://media.giphy.com/media/JqCyR82tHIYQGRjLOY/giphy.gif" width="60"><b>I'm Currently Learning</b></h2>
 
 **A self taught programmer**
 
 - Web Development
 - Data Structure and Algorithms
 
-<h2><img src="https://media.giphy.com/media/3Fn48BycQFHImJjsN8/giphy.gif" width="50">‍Currently working on:</h2>
+<h2><img src="https://media.giphy.com/media/3Fn48BycQFHImJjsN8/giphy.gif" width="50">Currently working on:</h2>
 
 <h3>Web Development -</h3>
 
