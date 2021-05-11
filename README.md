@@ -7,9 +7,9 @@
 - <i>Currently:</i> A CS student at **Jain University**, Bangalore.
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
 
-<h2><img src="https://media.giphy.com/media/JqCyR82tHIYQGRjLOY/giphy.gif" width="60"> I'm Currently Learning </h2>
+<h2><img src="https://media.giphy.com/media/JqCyR82tHIYQGRjLOY/giphy.gif" width="60">I'm Currently Learning</h2>
 
-**A self learner**
+**A self taught programmer**
 
 - Web Development
 - Data Structure and Algorithms
@@ -22,9 +22,9 @@ I have document my experience throughout this process, and you can find them on 
 
 ## <img src="https://media.giphy.com/media/26vwfMVM6nlEkwftUj/giphy.gif" width="60"> Check out my Practice projects:
 
-  [<img src="./p1.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816)[<img src="./p2.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856)
-  [<img src="./p3.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6781480245464727553)[<img src="./p4.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6787762553226432512)
-  [<img src="./p5.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6783079910190661633)[<img src="./p6.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6790126179681611776)
+[<img src="./p1.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816)[<img src="./p2.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856)
+[<img src="./p3.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6781480245464727553)[<img src="./p4.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6787762553226432512)
+[<img src="./p5.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6783079910190661633)[<img src="./p6.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6790126179681611776)
 
 ## <img src="https://media.giphy.com/media/1yMzoGQfLdPUKhtBo9/giphy.gif" width="60"> Experience my Live Website here 👇
 
@@ -35,8 +35,6 @@ I have document my experience throughout this process, and you can find them on 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=DataStructures-And-Algorithms)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=Grocery-Bud-ViDirectory)](https://github.com/heyimvikash/Grocery-Bud-ViDirectory)
 
-
-
 <h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> GitHub Stats</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](https://github.com/heyimvikash)
@@ -45,7 +43,6 @@ I have document my experience throughout this process, and you can find them on 
 
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">A little more about me...⚡:</h2>
 <img align='right' src="https://media.giphy.com/media/uddQeaRTsKUc57pQSh/giphy.gif" width="160" height="180"/>
-
 
 Hello there,
 I'm a 19-year-old boy and I love writing code.In fact, I'm in love with the whole process of learning to code like ▪️> reading Q ▪️> visualizing logic ▪️> writing code ▪️>getting errors ▪️>debugging ▪️>passing all the test cases ▪️> optimizing my code ▪️>again errors ▪️>debugging few more times ▪️>then a successful submission with a lot of learnings.
@@ -64,10 +61,6 @@ If you have learned any new technology and want to share your joy, your struggli
 
 <a href="mailto:heyimvikash@gmail.com">![heyimvikash@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/heyimvikash/">![](https://img.shields.io/badge/VikashGupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> [![](https://img.shields.io/badge/-@heyiamvikash-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/heyiamvikash)](https://twitter.com/heyiamvikash)
 [![](https://img.shields.io/badge/heyimvikash-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heyimvikash)
-
-
-
-
 
 <!--
 **laxmena/laxmena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
