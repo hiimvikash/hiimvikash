@@ -32,7 +32,7 @@ I have document my experience throughout this process, and you can find them on 
 
 ## <img src="https://media.giphy.com/media/nqc71UeLFdr0we228t/giphy.gif" width="60"> **Check out my GitHub repository :-**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=DataStructures-And-Algorithms)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=DSA-EndGame)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyimvikash&repo=Grocery-Bud-ViDirectory)](https://github.com/heyimvikash/Grocery-Bud-ViDirectory)
 
 <h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2>
