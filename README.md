@@ -39,6 +39,8 @@ I have document my experience throughout this process, and you can find them on 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](https://github.com/heyimvikash)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=heyimvikash&bg_color=000000&color=F8D866&line=ffce3b&point=FFFFFF&hide_border=false" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimvikash&layout=compact)](#)
 
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"><b>A little more about me...⚡: </b></h2>
