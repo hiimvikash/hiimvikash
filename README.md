@@ -39,7 +39,7 @@ I have document my experience throughout this process, and you can find them on 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyimvikash&theme=highcontrast&hide_border=true)](https://github.com/heyimvikash)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=heyimvikash&bg_color=000000&color=F8D866&line=ffce3b&point=FFFFFF&hide_border=false"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=heyimvikash&bg_color=000000&color=F8D866&line=ffce3b&point=ffedb8&hide_border=false"/>
 
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyimvikash&count_private=true&show_icons=true&bg_color=000000&title_color=ffedb8&text_color=ffce3b&icon_color=ffffff&border_radius=18px)
 
