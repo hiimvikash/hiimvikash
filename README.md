@@ -43,7 +43,7 @@ I have document my experience throughout this process, and you can find them on 
 
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyimvikash&count_private=true&show_icons=true&bg_color=000000&title_color=ffedb8&text_color=ffce3b&icon_color=ffffff&border_radius=18px)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimvikash&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimvikash&layout=compact&bg_color=000000&title_color=ffedb8&text_color=ffce3b&icon_color=ffffff&border_radius=18px)](#)
 
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"><b>A little more about me...⚡: </b></h2>
 <img align='right' src="https://media.giphy.com/media/uddQeaRTsKUc57pQSh/giphy.gif" width="160" height="180"/>
