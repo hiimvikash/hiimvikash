@@ -63,7 +63,7 @@ If you have learned any new technology and want to share your joy, your struggli
 
 <h2><b>Say me "Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">" on 💬</b></h2>
 
-<a href="mailto:heyimvikash@gmail.com">![heyimvikash@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/heyimvikash/">![](https://img.shields.io/badge/VikashGupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> [![](https://img.shields.io/badge/-@heyiamvikash-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/hiimvikash)](https://twitter.com/hiimvikash)
+<a href="mailto:heyimvikash@gmail.com">![heyimvikash@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/heyimvikash/">![](https://img.shields.io/badge/VikashGupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> [![](https://img.shields.io/badge/-@hiimvikash-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/hiimvikash)](https://twitter.com/hiimvikash)
 [![](https://img.shields.io/badge/hiimvikash-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiimvikash)
 
 <!--
