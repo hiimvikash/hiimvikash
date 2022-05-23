@@ -49,7 +49,7 @@ I have document my experience throughout this process, and you can find them on 
 <img align='right' src="https://media.giphy.com/media/uddQeaRTsKUc57pQSh/giphy.gif" width="160" height="180"/>
 
 Hello there,
-I'm a 19-year-old boy and I love writing code. In fact, I'm in love with the whole process of learning to code like ▪️> reading Q ▪️> visualizing logic ▪️> writing code ▪️>getting errors ▪️>debugging ▪️>passing all the test cases ▪️> optimizing my code ▪️>again errors ▪️>debugging few more times ▪️>then a successful submission with a lot of learnings.
+I'm a 20-year-old boy and I love writing code. In fact, I'm in love with the whole process of learning to code like ▪️> reading Q ▪️> visualizing logic ▪️> writing code ▪️>getting errors ▪️>debugging ▪️>passing all the test cases ▪️> optimizing my code ▪️>again errors ▪️>debugging few more times ▪️>then a successful submission with a lot of learnings.
 Ever since writing my first program in Java and manipulating it to produce the desired output, I have been obsessed with the idea of making something to solve practical problems.
 
 I am passionately engaged in learning DsAlgo (Data Structures and Algorithms) and simultaneously developing my problem-solving skills on go. This [Repository](https://github.com/hiimvikash/DSA-EndGame) will be containing my resources, tutorial, codes, and my approach to Qs, for future reference. As I'm in the learning process, [this repository](https://github.com/hiimvikash/DSA-EndGame) will be refreshed daily with my new bits of knowledge.
