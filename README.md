@@ -28,7 +28,7 @@ I have document my experience throughout this process, and you can find them on 
 
 ## <img src="https://media.giphy.com/media/1yMzoGQfLdPUKhtBo9/giphy.gif" width="60"> **Experience my Live Website here 👇**
 
-[<img src="./l1.png" loading="lazy" title="click"/>](https://heyimvikashdirectory.netlify.app/)
+[<img src="./l1.png" loading="lazy" title="click"/>](https://hiimvikashgrocerybud.netlify.app/)
 
 ## <img src="https://media.giphy.com/media/nqc71UeLFdr0we228t/giphy.gif" width="60"> **Check out my GitHub repository :-**
 
