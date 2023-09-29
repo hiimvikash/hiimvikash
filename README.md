@@ -37,7 +37,7 @@ I have document my experience throughout this process, and you can find them on 
 
 <h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiimvikash&theme=highcontrast&hide_border=true)](https://github.com/heyimvikash)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiimvikash&theme=highcontrast&hide_border=true)](https://github.com/hiimvikash)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=hiimvikash&bg_color=000000&color=F8D866&line=ffce3b&point=ffedb8&hide_border=false"/>
 
