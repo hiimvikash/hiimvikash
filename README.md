@@ -1,84 +1,100 @@
-![Vikash Banner Image](./banner1.svg)
-
-<h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, नमस्ते (Namaste)🙏🏻, I'm Vikash Gupta!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" align="center"> <br><p align="center">🌱---🌳</p></h1>
-
-![](https://komarev.com/ghpvc/?username=hiimvikash&label=Visitors&style=flat&color=ffce3b) [![GitHub followers](https://img.shields.io/github/followers/hiimvikash.svg?style=social&label=Follow)](https://github.com/hiimvikash?tab=followers)
-
-- <i>Currently :</i> A CS student at **Jain University**, Bangalore.
-  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
-
-<h2><img src="https://media.giphy.com/media/JqCyR82tHIYQGRjLOY/giphy.gif" width="60"><b>I'm Currently Learning</b></h2>
-
-**A self taught programmer**
-
-- Web Development
-- Data Structure and Algorithms
-
-<h2><img src="https://media.giphy.com/media/3Fn48BycQFHImJjsN8/giphy.gif" width="50"><b>Currently working on :-</b></h2>
-
-<h3>Web Development -</h3>
-
-I have document my experience throughout this process, and you can find them on my [LinkedIn featured](https://www.linkedin.com/in/hiimvikash/).
-
-## <img src="https://media.giphy.com/media/26vwfMVM6nlEkwftUj/giphy.gif" width="60"> **Check out my Practice projects:**
-
-[<img src="./p1.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6778601756852002816)[<img src="./p2.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6779291973460217856)
-[<img src="./p3.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6781480245464727553)[<img src="./p4.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6787762553226432512)
-[<img src="./p5.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6783079910190661633)[<img src="./p6.png" width="50%" loading="lazy" title="click"/>](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6790126179681611776)
-
-## <img src="https://media.giphy.com/media/1yMzoGQfLdPUKhtBo9/giphy.gif" width="60"> **Experience my Live Website here 👇**
-
-[<img src="./l1.png" loading="lazy" title="click"/>](https://hiimvikashgrocerybud.netlify.app/)
-
-## <img src="https://media.giphy.com/media/nqc71UeLFdr0we228t/giphy.gif" width="60"> **Check out my GitHub repository :-**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiimvikash&repo=DSA-EndGame)](https://github.com/heyimvikash/DataStructures-And-Algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiimvikash&repo=reactjs)](https://github.com/hiimvikash/reactjs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiimvikash&repo=nodejs)](https://github.com/hiimvikash/nodejs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiimvikash&repo=mongodb)](https://github.com/hiimvikash/mongodb)
 
 
-<h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2>
+# नमस्ते, I'm Vikash Gupta 🙏🏻
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiimvikash&theme=highcontrast&hide_border=true)](https://github.com/hiimvikash)
+A passionate and results-driven Full-Stack Developer with a strong foundation in Data Structures and Algorithms (DSA) and a keen interest in building scalable, real-world applications. I thrive on taking ownership of problems end-to-end and am always eager to learn and adapt to new technologies.
 
-<img src="https://activity-graph.herokuapp.com/graph?username=hiimvikash&bg_color=000000&color=F8D866&line=ffce3b&point=ffedb8&hide_border=false"/>
+---
 
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiimvikash&count_private=true&show_icons=true&bg_color=000000&title_color=ffedb8&text_color=ffce3b&icon_color=ffffff&border_radius=18px)
+## 🚀 What I Do
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimvikash&layout=compact&bg_color=000000&title_color=ffedb8&text_color=ffedb8&icon_color=ffffff&border_radius=18px)](#)
+* **Full-Stack Development:** Proficient in building robust web applications using modern frameworks and technologies.
 
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"><b>A little more about me...⚡: </b></h2>
-<img align='right' src="https://media.giphy.com/media/uddQeaRTsKUc57pQSh/giphy.gif" width="160" height="180"/>
+* **Backend & System Design:** Dedicated to implementing advanced backend concepts for highly scalable solutions, including microservices, distributed systems, and API design.
 
-Hello there,
-I'm a 20-year-old boy and I love writing code. In fact, I'm in love with the whole process of learning to code like ▪️> reading Q ▪️> visualizing logic ▪️> writing code ▪️>getting errors ▪️>debugging ▪️>passing all the test cases ▪️> optimizing my code ▪️>again errors ▪️>debugging few more times ▪️>then a successful submission with a lot of learnings.
-Ever since writing my first program in Java and manipulating it to produce the desired output, I have been obsessed with the idea of making something to solve practical problems.
+* **Problem Solving:** Strong command of Data Structures and Algorithms, with extensive competitive programming experience.
 
-I am passionately engaged in learning DsAlgo (Data Structures and Algorithms) and simultaneously developing my problem-solving skills on go. This [Repository](https://github.com/hiimvikash/DSA-EndGame) will be containing my resources, tutorial, codes, and my approach to Qs, for future reference. As I'm in the learning process, [this repository](https://github.com/hiimvikash/DSA-EndGame) will be refreshed daily with my new bits of knowledge.
+---
 
-I think implementing my learnings into real-world projects is the best way to move forward in my path and beauty computer science had made it easy for me where I can implement whatever I learn at the ease of my room and boost the confidence of my knowledge exponentially so on this note I started web-development and build 21-23 practice-projects like the different Landing pages, note-taking website, menu-filtering website. You can find few of them on [LinkedIn featured](https://www.linkedin.com/in/heyimvikash/) and do experience a live website [here](https://heyimvikashdirectory.netlify.app/), a web application for taking down the grocery lists.
+## 🛠️ Tech Stack & Tools
 
-Whenever I self-learn about any technology then sharing it with you all guys become my necessity.
-If you have learned any new technology and want to share your joy, your struggling part, and your behind story while learning it, with someone, then I'm the right guy, ready to learn from your experiences, do reach out.
+* **Languages:** Java, Javascript
 
-<img height="80" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+* **Frontend:** React.js, Next.js
 
-<h2><b>Say me "Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">" on 💬</b></h2>
+* **Backend:** Node.js
 
-<a href="mailto:heyimvikash@gmail.com">![heyimvikash@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/hiimvikash/">![](https://img.shields.io/badge/VikashGupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> [![](https://img.shields.io/badge/-@hiimvikash-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/hiimvikash)](https://twitter.com/hiimvikash)
-[![](https://img.shields.io/badge/hiimvikash-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiimvikash)
+* **Databases:** MongoDB, PostgreSQL
 
-<!--
+* **DevOps & Tools:** Docker, Redis, Kafka, Git, GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Featured Projects
+
+* **JotterVG**
+
+    * A recent personal full-stack application showcasing end-to-end development capabilities.
+
+    * **Live Demo:** [jottervg.vercel.app](https://jottervg.vercel.app)
+
+* **DSA-EndGame**
+
+    * My comprehensive GitHub repository dedicated to Data Structures and Algorithms.
+
+    * **Contributions:** 150+ stars and 50+ forks.
+
+    * **Repository:** [github.com/hiimvikash/DSA-EndGame](https://github.com/hiimvikash/DSA-EndGame)
+
+* **Backend Concepts & Scalable Solutions (Proof-of-Concept)**
+
+    * A collection of repositories demonstrating my deep dive into advanced backend patterns and scalable architectures.
+
+    * [Backend Talks](https://github.com/hiimvikash/backendtalks)
+
+    * [Scalable Chat](https://github.com/hiimvikash/scalablechat)
+
+    * [Redis Implementations](https://github.com/hiimvikash/redis)
+
+    * [Kafka Integrations](https://github.com/hiimvikash/kafka)
+
+    * [Dockerizations](https://github.com/hiimvikash/docker)
+
+---
+
+## 🏆 Dev Moments
+
+* **HackerRank:** Achieved 5 Stars in Problem Solving.
+
+    * [Profile](https://hackerrank.com/profile/itzvikashgupta)
+
+* **College Code Then Competition:** Secured 2nd rank in a DSA problem-solving competition.
+
+* **Extensive Problem Solving:** Solved 500+ coding questions across platforms like LeetCode and GeeksforGeeks.
+
+    * [LeetCode Profile](https://leetcode.com/hiimvikash)
+
+    * [GeeksforGeeks Profile](https://geeksforgeeks.org/user/heyiamvikash)
+
+---
+
+## 🌱 Always Learning
+
+I believe in continuous growth and regularly document my learning journey through dedicated repositories:
+
+* [React.js Learning](https://github.com/hiimvikash/reactjs)
+
+* [Node.js Learning](https://github.com/hiimvikash/nodejs)
+
+* [Next.js Learning](https://github.com/hiimvikash/nextjs)
+
+---
+
+## 📬 Get in Touch
+
+Feel free to connect with me!
+
+* **Email:** \[heyimvikash@gmail.com\]
+
+* **Portfolio:** [more about me](https://hiimvikash.vercel.app)
+
