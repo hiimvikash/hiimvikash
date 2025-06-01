@@ -2,7 +2,7 @@
 
 # नमस्ते, I'm Vikash Gupta 🙏🏻
 
-A passionate and results-driven Full-Stack Developer with a strong foundation in Data Structures and Algorithms (DSA) and a keen interest in building scalable, real-world applications. I thrive on taking ownership of problems end-to-end and am always eager to learn and adapt to new technologies.
+I'm a Full-Stack Developer who loves building things that work well in every scenario and solve real-world problems. I'm always looking to learn new technologies and enjoy seeing projects through from start to finish. My foundation in Data Structures and Algorithms helps me build efficient and scalable solutions.
 
 ---
 
@@ -13,6 +13,8 @@ A passionate and results-driven Full-Stack Developer with a strong foundation in
 * **Backend & System Design:** Dedicated to implementing advanced backend concepts for highly scalable solutions, including microservices, distributed systems, and API design.
 
 * **Problem Solving:** Strong command of Data Structures and Algorithms, with extensive competitive programming experience.
+
+* Currently, I'm focused on exploring and building proofs of concept to integrate the power of Large Language Models (LLMs).
 
 ---
 
