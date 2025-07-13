@@ -90,6 +90,8 @@ I believe in continuous growth and regularly document my learning journey throug
 
 * [Next.js Learning](https://github.com/hiimvikash/nextjs)
 
+* [CSS Learning](https://github.com/hiimvikash/css/blob/main/README.md)
+
 ---
 
 ## 📬 Get in Touch
