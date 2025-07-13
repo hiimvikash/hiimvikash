@@ -81,6 +81,7 @@ I'm a Full-Stack Developer who loves building things that work well in every sce
 ---
 
 ## 🌱 Always Learning
+> I’ve learned that a solid base makes exploring new frameworks easier and more purposeful.
 
 I believe in continuous growth and regularly document my learning journey through dedicated repositories:
 
