@@ -14,7 +14,7 @@ I'm a Full-Stack Developer who loves building things that work well in every sce
 
 * **Problem Solving:** Strong command of Data Structures and Algorithms, with extensive competitive programming experience.
 
-* Currently, I'm focused on exploring and building proofs of concept to integrate the power of LLMs(Large Language Models).
+* Currently, I'm exploring and building proofs of concept to integrate the LLMs(Large Language Models) into applications.
 
 ---
 
