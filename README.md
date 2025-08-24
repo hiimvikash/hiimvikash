@@ -8,13 +8,13 @@ I'm a Computer Science Engineer who loves building things that work well in ever
 
 ## 🚀 What I Do
 
-* **Full-Stack Development:** Proficient in building robust web applications using modern frameworks and technologies.
+- **Full-Stack Development:** I work on complete web applications, from frontend to backend. I use modern frameworks and tech, and try to make apps which are strong, fast and easy to use.
 
-* **Backend & System Design:** Dedicated to implementing advanced backend concepts for highly scalable solutions, including microservices, distributed systems, and API design.
+- **Backend & System Design:** I really enjoy backend part. I design APIs, work with microservices, and think about how system will scale when users grow. Also like solving problem of distributed system.
 
-* **Problem Solving:** Strong command of Data Structures and Algorithms, with extensive competitive programming experience.
+- **Problem Solving:** I have strong base in Data Structures and Algorithms, because I did lot of competitive programming. So I am good at breaking big problems into small parts and solving them.
 
-* Currently, I'm exploring and building proofs of concept to integrate the LLMs(Large Language Models) into applications.
+These days I am learning about Large Language Models (LLMs) and building small proof-of-concepts to see how they can be used in real apps and also how can I automate few tasks by providing tools to LLMs
 
 ---
 
