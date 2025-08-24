@@ -2,7 +2,11 @@
 
 # नमस्ते, I'm Vikash Gupta 🙏🏻
 
-I'm a Computer Science Engineer who loves building things that work well in every scenario and solve real-world problems. I'm always looking to learn new technologies and enjoy seeing projects through from start to finish. My foundation in Data Structures and Algorithms helps me build efficient and scalable solutions.
+I’m a Computer Science engineer who enjoys building things that are useful and simple. I like solving practical problems and making applications that actually help in real scenarios.
+
+I try to keep learning new technologies and improve step by step, because every project teaches me something new.
+
+My background in Data Structures and Algorithms gives me a good base to think logically and build solutions that can work better as they grow.
 
 ---
 
