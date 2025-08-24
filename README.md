@@ -2,7 +2,7 @@
 
 # नमस्ते, I'm Vikash Gupta 🙏🏻
 
-I'm a Full-Stack Developer who loves building things that work well in every scenario and solve real-world problems. I'm always looking to learn new technologies and enjoy seeing projects through from start to finish. My foundation in Data Structures and Algorithms helps me build efficient and scalable solutions.
+I'm a Computer Science Engineer who loves building things that work well in every scenario and solve real-world problems. I'm always looking to learn new technologies and enjoy seeing projects through from start to finish. My foundation in Data Structures and Algorithms helps me build efficient and scalable solutions.
 
 ---
 
