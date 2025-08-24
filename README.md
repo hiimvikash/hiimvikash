@@ -16,9 +16,11 @@ My background in Data Structures and Algorithms gives me a good base to think lo
 
 - **Backend & System Design:** I really enjoy backend part. I design APIs, work with microservices, and think about how system will scale when users grow. Also like solving problem of distributed system.
 
-- **Problem Solving:** I have strong base in Data Structures and Algorithms, because I did lot of competitive programming. So I am good at breaking big problems into small parts and solving them.
+- **Problem Solving:** I have strong base in Data Structures and Algorithms, because I did lot of LCs Qs. So I am good at breaking big problems into small parts and solving them.
 
-These days I am learning about Large Language Models (LLMs) and building small proof-of-concepts to see how they can be used in real apps and also how can I automate few tasks by providing tools to LLMs
+These days I am learning about Large Language Models (LLMs) and building small proof-of-concepts to see how they can be used in real apps and also how can I automate few tasks by providing tools to LLMs.
+
+Along with that, I’ve started writing on Medium about my learnings in React and other technologies. Whatever I explore, I try to make a blog out of it — so it’s useful for others and also helps me understand things better. You can find them [here](https://hiimvikash.medium.com/)
 
 ---
 
