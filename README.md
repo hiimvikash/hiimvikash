@@ -1,26 +1,15 @@
-
-
 # नमस्ते, I'm Vikash Gupta 🙏🏻
 
-I’m a Computer Science engineer who enjoys building things that are useful and simple. I like solving practical problems and making applications that actually help in real scenarios.
+I’m a Computer Science engineer who loves building simple and useful things. I try to keep learning step by step — every project, every bug, every new tool teaches me something new. That’s the fun part of this field.
 
-I try to keep learning new technologies and improve step by step, because every project teaches me something new.
+🚀 What I’m into right now
 
-My background in Data Structures and Algorithms gives me a good base to think logically and build solutions that can work better as they grow.
+- **Full-Stack Development →** I enjoy working on complete applications, from frontend to backend. I try to make them fast, reliable, and easy to use.
+- **Backend & System Design →** I find backend really exciting — designing APIs, working with microservices, and thinking about how systems will scale when more people start using them.
+- **Problem Solving →** I like solving LeetCode questions as a game. Haven’t been regular lately, but I’m planning to get back to it soon. Breaking big problems into smaller steps and solving them is something I genuinely enjoy.
+- **Exploring LLMs →** These days, I’m experimenting with Large Language Models — building small proof-of-concepts to see how they can fit into real applications and automate boring tasks.
 
----
-
-## 🚀 What I Do
-
-- **Full-Stack Development:** I work on complete web applications, from frontend to backend. I use modern frameworks and tech, and try to make apps which are strong, fast and easy to use.
-
-- **Backend & System Design:** I really enjoy backend part. I design APIs, work with microservices, and think about how system will scale when users grow. Also like solving problem of distributed system.
-
-- **Problem Solving:** I have strong base in Data Structures and Algorithms, So I am good at breaking big problems into small parts and solving them.
-
-These days I am learning about Large Language Models (LLMs) and building small proof-of-concepts to see how they can be used in real apps and also how can I automate few tasks by providing tools to LLMs.
-
-Along with that, I’ve started writing on Medium about my learnings in React and other technologies. Whatever I explore, I try to make a blog out of it — so it’s useful for others and also helps me understand things better. You can find them [here](https://hiimvikash.medium.com/)
+I’ve also started writing about my learnings in React and other technologies on medium. Writing helps me clear my own understanding, and if it helps someone else along the way, that’s even better. You can find them [here](https://hiimvikash.medium.com/)
 
 ---
 
