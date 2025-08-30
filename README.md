@@ -96,5 +96,5 @@ Feel free to connect with me!
 
 * **Email:** \[heyimvikash@gmail.com\]
 
-* **Portfolio:** [hiimvikash.dev](hiimvikash.dev)
+* **Portfolio:** [hiimvikash.dev](https://hiimvikash.dev)
 
