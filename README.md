@@ -1,6 +1,6 @@
 # नमस्ते, I'm Vikash Gupta 🙏🏻
 
-I’m a Computer Science engineer who loves building simple and useful things. I try to keep learning step by step — every project, every bug, every new tool teaches me something new. That’s the fun part of this field.
+I’m a software engineer who loves building simple and useful things.
 
 🚀 What I’m into right now
 
